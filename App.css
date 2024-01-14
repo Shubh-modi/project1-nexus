@@ -1,0 +1,33 @@
+ .body{
+    height: 695px;
+    /* background-color: aqua; */
+    background-image: linear-gradient(to bottom , #6eb8f5, white);
+    display: flex ;
+    align-items: center;
+ }
+ .card{
+  height: 500px;
+  width: 400px;
+  background-color: #F9F3F4;
+  display: flex;
+  justify-content: top;
+  padding-left: 25px;
+  padding-right: 25px;
+
+ }
+
+ .logo{
+
+padding-bottom: 30px;
+ }
+ .signup{
+    height: 570px;
+ }
+ .login{
+   margin-left: 120px;
+    height: 100px;
+    width: 100px; 
+ }
+ .button{
+   background-color:#1177ff;
+ }
